@@ -1,0 +1,21 @@
+# 本地源视频包（已解压入库，无需提交）
+*.zip
+_tmp_video/
+_tmp_clone/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+
+# 日志
+*.log
